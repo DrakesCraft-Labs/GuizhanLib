@@ -23,3 +23,13 @@ It provides the common, localization, Minecraft and Slimefun APIs required by ma
 Artifact: `com.github.drakescraft_labs:guizhanlib-all:2.5.0-Drake-1.21.11`.
 
 The original project by ybw0014 and its GPL-3.0 license are preserved.
+
+## ⚖️ Upstream Attribution & License / Licencia y Créditos
+
+- **Original Project / Upstream**: Slimefun4 Community Addon.
+- **Port & Maintenance**: DrakesCraft Labs team (Compatibility for Paper / Purpur 1.21.11).
+- **License**: GPL-3.0 / MIT.
+- **Source Code**: [GitHub Repository](https://github.com/DrakesCraft-Labs/GuizhanLib)
+- **Support & Issues**: [GitHub Issues](https://github.com/DrakesCraft-Labs/GuizhanLib/issues) | [Discord](https://discord.gg/rR7FbfCt9Y)
+
+*This project is an open-source derivative work maintained by DrakesCraft Labs under the terms of its original license. All original assets and concepts belong to their respective creators.*
